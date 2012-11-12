@@ -1,4 +1,6 @@
-script
+script and config 
 ======
 
-simple script for efficiency
++   simple script for efficiency
+
++   config and trouble shooting
