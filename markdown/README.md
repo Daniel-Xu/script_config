@@ -1,14 +1,15 @@
 Markdown env configuration 
 ===
 
-+ first
++   first
   
-put Markdown.pl in /usr/local/bin or other location could be found by your $PATH
+    put Markdown.pl in /usr/local/bin or other location could be found by your $PATH
 
-+ second
++   second
 
-use transfer.sh to transfer `.md` file to `.html` file
+    use transfer.sh to transfer `.md` file to `.html` file
 
-+ third
++   third
 
-use open.sh to have a view in firefox
+    use open.sh to have a view in firefox
+
