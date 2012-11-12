@@ -1,0 +1,9 @@
+[user]
+	name = Daniel_Xu 
+	email = xwd.forever@gmail.com
+[alias]
+	ci = commit -a -v
+	throw = reset --hard HEAD
+	throwh = reset --hard HEAD^
+[core]
+	editor = vim
