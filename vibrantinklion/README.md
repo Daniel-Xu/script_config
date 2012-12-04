@@ -2,9 +2,9 @@
 
 ## modify .bash_profile
 
-source .bashrc 
+    source .bashrc 
 
 ## modify .bashrc
 
-alias ls="ls -G"
+    alias ls="ls -G"
 
