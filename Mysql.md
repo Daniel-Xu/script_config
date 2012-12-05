@@ -37,7 +37,7 @@ then init database:
 
     mysql.server start
 
-## secure
+## Secure
 
 After typing the following command, you will able to configure the security of
 
